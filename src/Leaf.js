@@ -23,7 +23,7 @@ class Leaf extends Component {
     return (
       <div className="leaf-container">
         <div className="leaf" style={adjustment}>
-          <img src="/img/pinktip.png" style={tipWidth} />
+          <img src="/succulent-flex/img/pinktip.png" style={tipWidth} />
         </div>
       </div>
     );

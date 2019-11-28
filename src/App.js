@@ -84,7 +84,8 @@ class App extends Component {
         <Typing loop="true" speed={80}>
           <button onClick={() => this.setSandbox()}>
             {" "}
-            YOU COME ACROSS A BARREN AND SANDY PLAIN. CLICK TO GROW THIS GARDEN{" "}
+            YOU COME ACROSS A BARREN AND SANDY PLAIN. CLICK HERE TO GROW THIS
+            GARDEN{" "}
           </button>
           <Typing.Delay ms={10000} />
         </Typing>
