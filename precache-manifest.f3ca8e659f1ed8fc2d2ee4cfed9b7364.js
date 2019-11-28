@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/succulent-flex/static/js/runtime~main.e667bcac.js"
   },
   {
-    "revision": "dc522f5d56ec153e4417",
-    "url": "/succulent-flex/static/js/main.dc522f5d.chunk.js"
+    "revision": "2c99c555a9b382e7eebf",
+    "url": "/succulent-flex/static/js/main.2c99c555.chunk.js"
   },
   {
     "revision": "afbba25b570244ba5169",
     "url": "/succulent-flex/static/js/1.afbba25b.chunk.js"
   },
   {
-    "revision": "dc522f5d56ec153e4417",
+    "revision": "2c99c555a9b382e7eebf",
     "url": "/succulent-flex/static/css/main.8d7c6300.chunk.css"
   },
   {
-    "revision": "2716dba4cc82a29750bef2c367e519a1",
+    "revision": "81554f565b72126bf3c9e0159473850e",
     "url": "/succulent-flex/index.html"
   }
 ];

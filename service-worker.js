@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/succulent-flex/precache-manifest.77ffd0e030ea8009091575606b21d2bc.js"
+  "/succulent-flex/precache-manifest.f3ca8e659f1ed8fc2d2ee4cfed9b7364.js"
 );
 
 workbox.clientsClaim();

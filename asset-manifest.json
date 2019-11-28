@@ -1,7 +1,7 @@
 {
   "main.css": "/succulent-flex/static/css/main.8d7c6300.chunk.css",
-  "main.js": "/succulent-flex/static/js/main.dc522f5d.chunk.js",
-  "main.js.map": "/succulent-flex/static/js/main.dc522f5d.chunk.js.map",
+  "main.js": "/succulent-flex/static/js/main.2c99c555.chunk.js",
+  "main.js.map": "/succulent-flex/static/js/main.2c99c555.chunk.js.map",
   "static/js/1.afbba25b.chunk.js": "/succulent-flex/static/js/1.afbba25b.chunk.js",
   "static/js/1.afbba25b.chunk.js.map": "/succulent-flex/static/js/1.afbba25b.chunk.js.map",
   "runtime~main.js": "/succulent-flex/static/js/runtime~main.e667bcac.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/succulent-flex/static/media/logo.5d5d9eef.svg",
   "static/css/main.8d7c6300.chunk.css.map": "/succulent-flex/static/css/main.8d7c6300.chunk.css.map",
   "index.html": "/succulent-flex/index.html",
-  "precache-manifest.77ffd0e030ea8009091575606b21d2bc.js": "/succulent-flex/precache-manifest.77ffd0e030ea8009091575606b21d2bc.js",
+  "precache-manifest.f3ca8e659f1ed8fc2d2ee4cfed9b7364.js": "/succulent-flex/precache-manifest.f3ca8e659f1ed8fc2d2ee4cfed9b7364.js",
   "service-worker.js": "/succulent-flex/service-worker.js"
 }
